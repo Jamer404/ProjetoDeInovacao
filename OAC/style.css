@@ -1,0 +1,47 @@
+.title {
+  text-align: center;
+  font-size: 2.5em;
+  font-weight: bold;
+}
+
+.estruturaPc {
+  margin-top: 5%;
+  margin-left: 40%;
+  width: 25em;
+  height: 15em;
+}
+
+.divContent {
+  font-size: 1.5em;
+  position: relative;
+  width: 40%;
+  height: 10%;
+  border: 1px solid blue;
+  box-sizing: border-box;
+  align-items: justify;
+  margin-top: 3%;
+  margin-left: 30%;
+}
+
+.ciclo {
+  font-weight: bold;
+  text-align: center;
+  margin-top: 2%;
+}
+
+.estadosCiclo {
+  margin-top: 2%;
+}
+
+.componentes {
+  font-weight: bold;
+  text-align: center;
+  margin-top: 2%;
+}
+
+.componentesPc {
+  margin-top: 5%;
+  margin-left: 10%;
+  width: 25em;
+  height: 15em;
+}
